@@ -1,8 +1,8 @@
 ---
-title: ツール
+title: Unity アセット
 description: 
 published: true
-date: 2023-07-19T07:33:21.146Z
+date: 2023-07-19T08:20:50.506Z
 tags: パーティクルライブ
 editor: markdown
 dateCreated: 2023-07-18T16:17:44.635Z
@@ -33,6 +33,8 @@ dateCreated: 2023-07-18T16:17:44.635Z
 
 # アセット
 
+各種便利な Unity アセット。
+
 ## ConstraintWorldFixed
 
 * https://clytie.booth.pm/items/1945236
@@ -40,16 +42,11 @@ dateCreated: 2023-07-18T16:17:44.635Z
 Constraint を使ってパーティクルライブをワールドに固定するための Prefab。
 この Prefab の中に雑に突っ込めば固定できるので、難しいことが分からない人は使おう。
 
-# 3D モデル生成
 
-なんかいろんな 3D モデルをほぼ自動で作るもの。
-凝った 3D モデルは自分で Blender なり Maya なりでこねる必要があるので諦めましょう。
+## UV反転オブジェクト
 
-## 3D テキストを瞬間 FBX 出力するための Blender アドオン
+* https://booth.pm/ja/items/1694489
 
-* https://booth.pm/ja/items/1580053
-
-歌詞の 3D モデル出すときに使える。
-シンプルだけど、日本語ロケール以外を使っていると死んだ記憶がある。
-
+通常のオブジェクトとは違って、 UV が反転したオブジェクトの詰め合わせセット。
+ライブ内における Skybox の表現などに使える。
 
