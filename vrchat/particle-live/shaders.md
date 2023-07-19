@@ -2,7 +2,7 @@
 title: シェーダー
 description: 
 published: true
-date: 2023-07-18T16:32:43.441Z
+date: 2023-07-19T08:44:34.822Z
 tags: パーティクルライブ
 editor: markdown
 dateCreated: 2023-07-18T15:51:19.800Z
@@ -16,7 +16,7 @@ dateCreated: 2023-07-18T15:51:19.800Z
 
 特に用途を限定しない多機能シェーダー。
 
-## Poiyomi Toon Shader
+## Poiyomi Toon Shader (有料、無料版アリ)
 
 * https://github.com/poiyomi/PoiyomiToonShader
 * https://www.poiyomi.com/
@@ -24,7 +24,7 @@ dateCreated: 2023-07-18T15:51:19.800Z
 海外の有名な汎用シェーダー。アバター用のシェーダーとしても多機能だし、機能を応用することで視界ジャックをすることも可能。
 
 
-## Mochies Unity Shaders
+## Mochies Unity Shaders (有料、無料版アリ)
 
 * https://github.com/MochiesCode/Mochies-Unity-Shaders
 
@@ -52,7 +52,7 @@ dateCreated: 2023-07-18T15:51:19.800Z
 英語なので注意。
 
 
-## June Shader (有料、無料版有り)
+## June Shader (有料、無料版アリ)
 
 * https://booth.pm/ja/items/3537955
 * https://www.luka.moe/june.html
@@ -61,7 +61,7 @@ dateCreated: 2023-07-18T15:51:19.800Z
 
 # 歌詞シェーダー
 
-パーティクルライブのうち、歌詞をメインとした演出を作成したい場合に多用するシェーダー。
+パーティクルライブのうち、歌詞をメインとした演出を作成したい場合に多用する、歌詞演出に特化したシェーダー。
 歌詞のテキストを 3D モデルとして、それらに当てると様々な歌詞エフェクトが作成できるようになる。
 
 
@@ -72,3 +72,15 @@ dateCreated: 2023-07-18T15:51:19.800Z
 安定の Reimhak さんのシェーダー。
 Vket3 の `world.execute(me);` で使用されているシェーダーなので、使用実績もあり、参考になるものもある。
 お値段もそこまでしないので、持っておくと良い。
+
+
+# エフェクトシェーダー
+
+パーティクルライブを作る上で、派手な演出や映える演出を作成したい場合に使用するエフェクトを生み出すシェーダー。
+
+
+## ビームライトシェーダー / BeamLightShader (有料)
+
+* https://booth.pm/ja/items/1637978
+
+ライブ会場などでよく見るビームライトを表現できるようになるシェーダー。
