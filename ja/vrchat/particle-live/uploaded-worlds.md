@@ -2,7 +2,7 @@
 title: 公開ワールド
 description: 
 published: true
-date: 2023-07-20T08:11:11.098Z
+date: 2023-07-20T08:15:44.156Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-20T08:06:53.361Z
@@ -75,6 +75,12 @@ VRChat 上に存在しているパーティクルライブが設置されたワ�
 ## Kuiwa's Particle Hell
 
 * https://vrchat.com/home/world/wrld_d8c610d2-7c13-4b8b-928a-c98ccab9c74c
+
+# MALOSION
+
+## ドロシー
+
+* https://vrchat.com/home/world/wrld_86fa4346-c373-4b7f-9f7a-34413ebaa7c7
 
 # Mochie
 
