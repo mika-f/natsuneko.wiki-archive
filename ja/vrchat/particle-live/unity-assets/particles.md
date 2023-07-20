@@ -2,7 +2,7 @@
 title: パーティクル
 description: 
 published: true
-date: 2023-07-20T15:25:26.828Z
+date: 2023-07-20T15:27:46.517Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-20T05:29:47.647Z
@@ -14,7 +14,8 @@ dateCreated: 2023-07-20T05:29:47.647Z
 
 ## Miscellaneous_Particle
 
-良い感じにパーティクルの Prefab 詰め合わせ。
+汎用的に使用できるパーティクルの Prefab 詰め合わせ。
+湯気、キューブ、星空、爆発、蛍、ワープホールが含まれている。
 
 
 * https://hanyuuhikaru.booth.pm/items/4230249
