@@ -2,7 +2,7 @@
 title: 公開ワールド
 description: 
 published: true
-date: 2023-07-20T08:15:44.156Z
+date: 2023-07-20T12:33:23.929Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-20T08:06:53.361Z
@@ -108,7 +108,7 @@ VRChat 上に存在しているパーティクルライブが設置されたワ�
 
 ## 過去に囚われている
 
-* https://vrchat.com/home/world/wrld_82a1f28	6-0bf7-4dae-9acd-4d324c289c73
+* https://vrchat.com/home/world/wrld_82a1f286-0bf7-4dae-9acd-4d324c289c73
 
 # PUNISHER_VRC
 
