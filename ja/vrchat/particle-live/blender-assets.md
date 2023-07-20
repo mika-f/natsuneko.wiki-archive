@@ -2,7 +2,7 @@
 title: Blender アセット
 description: 
 published: true
-date: 2023-07-20T07:45:12.684Z
+date: 2023-07-20T15:29:33.209Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-19T08:21:30.705Z
@@ -15,7 +15,7 @@ dateCreated: 2023-07-19T08:21:30.705Z
 
 ## 3D テキストを瞬間 FBX 出力するための Blender アドオン
 
-* https://booth.pm/ja/items/1580053
+* https://arumogina.booth.pm/items/1580053
 
 歌詞の 3D モデル出すときに使える。
 シンプルだけど、日本語ロケール以外を使っていると死んだ記憶がある。
