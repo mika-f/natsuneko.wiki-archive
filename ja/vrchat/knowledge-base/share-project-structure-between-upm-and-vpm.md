@@ -2,7 +2,7 @@
 title: UnityPackage 用と UPM 用と VPM 用とでプロジェクトディレクトリを共有する
 description: 
 published: true
-date: 2023-07-31T10:38:45.100Z
+date: 2023-07-31T10:41:11.067Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-31T10:38:45.100Z
@@ -71,3 +71,6 @@ jobs:
           name: ${{ needs.setup.outputs.name }}
           path: ./dist
 ```
+
+この GitHub Actions パッケージでは、指定した `package.json` をベースに VPM に対応したパッケージを作成します。
+この場合、 `Assets/NatsunekoLaboratory/AnimatorControllerToolPostProcessing/package.json` をベースとして、必要なファイルのみがパッケージ化されたものが  `output` に指定した場所に出力されます。
