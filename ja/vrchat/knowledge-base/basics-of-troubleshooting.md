@@ -2,7 +2,7 @@
 title: トラブルシューティングの基本
 description: アバターやワールドをいじっていてエラーが出たときにどうすればいいのか？について
 published: true
-date: 2023-08-25T05:35:26.476Z
+date: 2023-08-25T05:38:33.757Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-25T05:35:26.476Z
@@ -16,7 +16,9 @@ dateCreated: 2023-08-25T05:35:26.476Z
 Unity のバージョンを確認しましょう。
 現在 VRChat がサポートしている Unity のバージョンは[こちら](https://creators.vrchat.com/sdk/current-unity-version/)から確認することが出来ます。
 記事が作成された時点では Unity 2019.4.31f1 に対応しており、それと同じバージョンを使って作業をする必要があります。
+Unity のバージョンはプロジェクトを開いている場合はタイトルバーから、 Unity Hub で管理されている場合は `EDITOR VERSION` の欄に書かれている文字列がそれに当たります。
 
+![スクリーンショット_2023-08-25_143757.png](/スクリーンショット_2023-08-25_143757.png)
 
 # 2. VRChat SDK のバージョン確認
 
